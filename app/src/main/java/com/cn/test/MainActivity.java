@@ -18,7 +18,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+//
         MagnificentChartItem firstItem = new  MagnificentChartItem("first", 30, Color.parseColor("#BAF0A2"));
         MagnificentChartItem secondItem = new  MagnificentChartItem("second", 12, Color.parseColor("#2F6994"));
         MagnificentChartItem thirdItem = new  MagnificentChartItem("third", 3, Color.parseColor("#FF6600"));
