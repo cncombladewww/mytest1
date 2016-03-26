@@ -18,6 +18,8 @@ import java.util.List;
 
 /**
  * Created by Ahmed on 30.01.14.
+ *
+ * wjf
  */
 public class MagnificentChart extends View {
 
@@ -26,7 +28,9 @@ public class MagnificentChart extends View {
     // default initialization params
     public static final float ANIMATION_SPEED_DEFAULT = 6.5f;
     public static final float ANIMATION_SPEED_SLOW = 1.0f;
+    
     public static final float ANIMATION_SPEED_FAST = 10.0f;
+
     public static final float ANIMATION_SPEED_NORMAL = 3.5f;
 
     // view properties
